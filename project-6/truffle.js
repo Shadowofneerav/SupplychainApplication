@@ -29,10 +29,10 @@
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
 
 const HDWalletProvider = require('@truffle/hdwallet-provider');
-const infuraKey = "infura key";
+const infuraKey = "add rinkeby address";
 //
 // const fs = require('fs');
-const mnemonic = "write your metamask key";
+const mnemonic = "add metamask code";
 
 module.exports = {
 
